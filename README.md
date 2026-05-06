@@ -1,1 +1,1 @@
-# COMP.CS.060
+# This is a readme
